@@ -71,4 +71,6 @@ button.cancel {
 
 .container {
   display: flex;
+  flex-wrap: wrap;
+  
 }
