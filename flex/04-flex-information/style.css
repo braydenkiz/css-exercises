@@ -11,6 +11,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 20px;
 }
 
 /* do not edit this footer */
@@ -28,4 +29,8 @@ img {
 
 .container {
   display: flex;
+}
+
+.info {
+  max-width: 200px;
 }
