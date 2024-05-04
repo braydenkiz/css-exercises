@@ -69,8 +69,20 @@ button.cancel {
   color: royalblue;
 }
 
-.container {
+
+.top {
   display: flex;
-  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.modal {
+  display: flex;
+  padding: 10px;
   
+}
+.icon {
+  margin-right: 10px;
 }
