@@ -28,4 +28,13 @@ input {
 
 ul {
   list-style: none;
+  
+}
+
+.header {
+  display: flex;
+}
+
+.footer {
+  display: flex;
 }
